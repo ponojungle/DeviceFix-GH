@@ -1,5 +1,5 @@
 # DeviceFix-GH
-computer, game console, electric scooter & hoverboardrepairs in Ghana 
+Computer, game console, electric scooter & hoverboardrepairs in Ghana 
 
 Hi! I'm a tech repair expert in Ghana, fixing gadgets and sharing guides.
 ## Repairs & Guides
